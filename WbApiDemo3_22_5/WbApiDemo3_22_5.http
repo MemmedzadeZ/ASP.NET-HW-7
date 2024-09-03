@@ -1,0 +1,6 @@
+@WbApiDemo3_22_5_HostAddress = http://localhost:5281
+
+GET {{WbApiDemo3_22_5_HostAddress}}/player/
+Accept: application/json
+
+###
